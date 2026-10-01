@@ -1,6 +1,0 @@
-# 屏蔽 iOS 更新
-# 真有效果的似乎是前两句
-DOMAIN,gdmf.apple.com
-DOMAIN,xp.apple.com
-DOMAIN,mesu.apple.com
-DOMAIN,updates-http.cdn-apple.com
